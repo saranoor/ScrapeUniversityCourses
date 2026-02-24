@@ -32,8 +32,8 @@ with open(output_file, mode="w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(header)
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=False)
-    page = browser.new_page()
+    browser = p.chromium.launch(headless=False, args=["--start-maximized"])
+    page = browser.new_page(no_viewport=True)
     page.goto("https://sisjee.iu.edu/sisigps-prd/web/igps/course/search/")
 
     for campus_code in campuses_codes:
