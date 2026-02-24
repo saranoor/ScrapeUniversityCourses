@@ -1,6 +1,6 @@
 # IU Course Catalog Intelligence Tool
 
-A high-performance web automation engine built with **Python** and **Playwright** designed to extract real-time academic data from the Indiana University (IGPS) portal. This tool navigates complex asynchronous interfaces to deliver structured insights into course availability, instructor assignments, and section-specific metadata.
+A high-performance web automation script built with **Python** and **Playwright** designed to extract real-time academic data from the Indiana University (IGPS) portal. This tool navigates complex asynchronous interfaces to deliver structured insights into course availability, instructor assignments, and section-specific metadata.
 
 ## 🚀 Key Features
 
@@ -38,7 +38,7 @@ A high-performance web automation engine built with **Python** and **Playwright*
 2. **Execute the enginer**
 ```python scraper.py```
 
-3. **💡 Technical Challenges Overcome**
+## Technical Challenges Overcome**
 The IU IGPS portal presents several hurdles for standard scrapers, including:
 
 Race Conditions: Solved by implementing wait_for_selector logic to sync the scraper with the portal's asynchronous data loading.
