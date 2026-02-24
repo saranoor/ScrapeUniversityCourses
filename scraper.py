@@ -17,7 +17,6 @@ results = []
 
 output_file = "iu_courses_2026.csv"
 
-# 1. Prepare the CSV file and write the header
 header = [
     "Campus",
     "Subject",
@@ -53,7 +52,6 @@ with sync_playwright() as p:
             page.wait_for_load_state("networkidle")
             time.sleep(2)
 
-            # Locate all course containers
             course_elements = page.locator(".cs-course-results .rvt-border-bottom")
 
             courses_data = []
@@ -61,7 +59,6 @@ with sync_playwright() as p:
             for i in range(course_elements.count()):
                 element = course_elements.nth(i)
 
-                # Extract data using specific paragraph/button classes
                 course_id = element.locator(
                     ".cs-course-results__summary-left p"
                 ).first.inner_text()
@@ -83,23 +80,11 @@ with sync_playwright() as p:
                 )
                 view_classes_btn.click()
                 page.wait_for_timeout(1000)
-                # try:
-                #     page.wait_for_selector("table.rvt-m-bottom-sm")
-                # except:
-                #     print("Failed to find table selector")
-                #     page.keyboard.press("Escape")
-                #     continue
-                # ... after view_classes_btn.click() ...
 
-                # 1. Wait for either the simple table OR the multi-component div to appear
                 page.wait_for_selector(
                     ".rvt-m-bottom-sm, .rvt-border-top", state="visible", timeout=8000
                 )
 
-                # 2. Grab all class rows.
-                # Simple layout uses: .cs-single-component-class-summary__row
-                # Multi layout uses: .cs-multi-component-summary__row
-                # We use a comma to select both types at once.
                 class_rows = page.locator(
                     ".cs-single-component-class-summary__row, .cs-multi-component-summary__row"
                 ).all()
@@ -110,18 +95,12 @@ with sync_playwright() as p:
                     for row in class_rows:
                         cells = row.locator("td.cs-class-data-container")
 
-                        # In both HTML structures you provided:
-                        # Index 3 is always Instructor
-                        # Index 4 is always Open Seats
                         instructor = (
                             cells.nth(3).inner_text().strip().replace("\n", ", ")
                         )
                         open_seats = cells.nth(4).inner_text().strip().split("\n")[0]
 
-                        # Optional: Get the component type (Lecture vs Discussion)
-                        # This is helpful for multi-component courses
                         component_type = "Standard"
-                        # If it's a multi-component course, the heading is in the parent <li>
                         parent_heading = row.locator("xpath=ancestor::li//h3").first
                         if parent_heading.is_visible():
                             component_type = parent_heading.inner_text().strip()
@@ -145,7 +124,6 @@ with sync_playwright() as p:
                                 open_seats,
                             ]
                         )
-                    # Add to your course_details
                     courses_data["sections"] = sections
 
                 page.keyboard.press("Escape")
