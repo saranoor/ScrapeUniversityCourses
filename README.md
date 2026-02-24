@@ -1,4 +1,4 @@
-# IU Course Catalog Intelligence Tool
+# IU Course Catalog Automation and Data Scraping Tool
 
 A high-performance web automation script built with **Python** and **Playwright** designed to extract real-time academic data from the Indiana University (IGPS) portal. This tool navigates complex asynchronous interfaces to deliver structured insights into course availability, instructor assignments, and section-specific metadata.
 ## Project Demo
