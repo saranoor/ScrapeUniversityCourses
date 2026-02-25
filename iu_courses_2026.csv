@@ -1,32 +1,178 @@
 Campus,Subject,Course ID,Title,Credits,Section Type,Instructor,Open Seats
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Lecture,Sonia Lee,12/125
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Sasha Weiss,2/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Peper Rivers,3/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Sasha Weiss,7/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Sonia Lee,0/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Peper Rivers,0/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Lecture,Lessie Frazier,35/150
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Paul Garza,4/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Paul Garza,3/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Remy Levy,9/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Remy Levy,7/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Remy Levy,12/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Discussion,Paul Garza,0/25
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Lecture,Susan Lepselter,0/35
-IUBLA,American Studies,AMST-A 100,WHAT IS AMERICA?,3 credits,Lecture,Paul Anderson,0/35
-IUBLA,American Studies,AMST-A 100,THE PEOPLING OF CONTEMPORARY AMERICA (WHAT IS AMERICA?),3 credits,Standard,Paul Anderson,0/35
-IUBLA,American Studies,AMST-A 100,CAPTIVITY NARRATIVES (WHAT IS AMERICA?),3 credits,Standard,Susan Lepselter,0/35
-IUBLA,American Studies,AMST-A 100,REDEFINING THE AMERICAN DREAM (WHAT IS AMERICA?),3 credits,Lecture,Sonia Lee,12/125
-IUBLA,American Studies,AMST-A 100,REDEFINING THE AMERICAN DREAM (WHAT IS AMERICA?),3 credits,Discussion,Sasha Weiss,2/25
-IUBLA,American Studies,AMST-A 100,REDEFINING THE AMERICAN DREAM (WHAT IS AMERICA?),3 credits,Discussion,Peper Rivers,3/25
-IUBLA,American Studies,AMST-A 100,REDEFINING THE AMERICAN DREAM (WHAT IS AMERICA?),3 credits,Discussion,Sasha Weiss,7/25
-IUBLA,American Studies,AMST-A 100,REDEFINING THE AMERICAN DREAM (WHAT IS AMERICA?),3 credits,Discussion,Sonia Lee,0/25
-IUBLA,American Studies,AMST-A 100,REDEFINING THE AMERICAN DREAM (WHAT IS AMERICA?),3 credits,Discussion,Peper Rivers,0/25
-IUBLA,American Studies,AMST-A 100,DISSENT AND RADICALISM IN AMERICA (WHAT IS AMERICA?),3 credits,Lecture,Lessie Frazier,35/150
-IUBLA,American Studies,AMST-A 100,DISSENT AND RADICALISM IN AMERICA (WHAT IS AMERICA?),3 credits,Discussion,Paul Garza,4/25
-IUBLA,American Studies,AMST-A 100,DISSENT AND RADICALISM IN AMERICA (WHAT IS AMERICA?),3 credits,Discussion,Paul Garza,3/25
-IUBLA,American Studies,AMST-A 100,DISSENT AND RADICALISM IN AMERICA (WHAT IS AMERICA?),3 credits,Discussion,Remy Levy,9/25
-IUBLA,American Studies,AMST-A 100,DISSENT AND RADICALISM IN AMERICA (WHAT IS AMERICA?),3 credits,Discussion,Remy Levy,7/25
-IUBLA,American Studies,AMST-A 100,DISSENT AND RADICALISM IN AMERICA (WHAT IS AMERICA?),3 credits,Discussion,Remy Levy,12/25
-IUBLA,American Studies,AMST-A 100,DISSENT AND RADICALISM IN AMERICA (WHAT IS AMERICA?),3 credits,Discussion,Paul Garza,0/25
-IUBLA,American Studies,AMST-A 200,COMPARATIVE AMERICAN IDENTITIES,3 credits,Standard,Aleshia Barajas,0/35
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Lecture,Kathryn Propst,0/246
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Kathryn Propst, Danielle Hanson",2/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Kathryn Propst, Danielle Hanson",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Lecture,Kathryn Propst,0/246
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Kathryn Propst, Danielle Hanson",2/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Kathryn Propst, Danielle Hanson",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anatomy,ANAT-A 225,HUMAN ANATOMY,5 credits,Laboratory,"Danielle Hanson, Kathryn Propst",0/41
+IUBLA,Anthropology,ANTH-A 102,THE HUMAN EXPERIENCE: ANTHROPOLOGICAL PERSPECTIVES,3 credits,Standard,Brian Gilley,82/100
+IUBLA,Anatomy,ANAT-A 340,MORE THAN SEX ED: A SCIENTIFIC LOOK AT REPRODUCTIVE ANATOMY & PHYSIOLOGY,3 credits,Standard,Stacey Dunham,0/18
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Kennedy Fue",1/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Tori DeWald",4/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Nikolina Zenovic",1/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Gbenga Oyelakin",1/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Kennedy Fue",0/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Tori DeWald",0/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Anasthascia Boateng",0/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Anasthascia Boateng",0/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Nikolina Zenovic",0/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Gbenga Oyelakin",0/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Cristian Ramirez",0/24
+IUBLA,Anthropology,ANTH-A 122,INTERPERSONAL COMMUNICATION,3 credits,Standard,"Jennifer Robinson, Cristian Ramirez",0/24
+IUBLA,Animal Behavior,ABEH-A 101,INTRODUCTION TO ANIMAL BEHAVIOR,3 credits,Standard,Adam Fudickar,0/100
+IUBLA,Anatomy,ANAT-A 361,HISTORY OF ANATOMY,2 credits,Standard,"James Brokaw, Valerie O'Loughlin",6/12
+IUBLA,Anthropology,ANTH-A 200,TOPICS IN ANTHROPOLOGY OF CULTURE AND SOCIETY,3 credits,Standard,Sarah Phillips,28/80
+IUBLA,Anthropology,ANTH-A 200,TOPICS IN ANTHROPOLOGY OF CULTURE AND SOCIETY,3 credits,Standard,Sarah Phillips,10/23
+IUBLA,Animal Behavior,ABEH-A 200,WORKSHOP IN ANIMAL BEHAVIOR,3 credits,Standard,Adam Fudickar,6/23
+IUBLA,Anatomy,ANAT-A 464,HUMAN TISSUE BIOLOGY,4–5 credits,Standard,John Foley,1/116
+IUBLA,Anthropology,ANTH-A 200,THE ANTHROPOLOGY OF DOLLY PARTON (TOPICS IN ANTHROPOLOGY OF CULTURE AND SOCIETY),3 credits,Standard,Sarah Phillips,28/80
+IUBLA,Animal Behavior,ABEH-A 350,ANIMAL BEHAVIOR LABORATORY,3 credits,Standard,Lisa Barrett,4/24
+IUBLA,Anatomy,ANAT-A 480,HUMAN ANATOMY FOR MEDICAL IMAGING EVALUATION,4 credits,Standard,Valerie O'Loughlin,14/38
+IUBLA,Anthropology,ANTH-A 200,WHO CARES? ANTHROPOLOGICAL PERSPECTIVES ON CARE (TOPICS IN ANTHROPOLOGY OF CULTURE AND SOCIETY),3 credits,Standard,Sarah Phillips,10/23
+IUBLA,Animal Behavior,ABEH-A 400,ADVANCED WORKSHOP IN ANIMAL BEHAVIOR,3 credits,Standard,Adam Fudickar,15/21
+IUBLA,Anatomy,ANAT-A 515,BASIC HUMAN ANATOMY FOR EDUCATORS,5 credits,Standard,"Stacey Dunham, Valerie O'Loughlin, Kathryn Propst",10/10
+IUBLA,Anthropology,ANTH-A 208,TOPICS IN THE ANTHROPOLOGY OF THE ARTS AND EXPRESSIVE BEHAVIOR,3 credits,Standard,Eliza Frenkel,1/27
+IUBLA,Animal Behavior,ABEH-A 401,TOPICAL ISSUES IN ANIMAL BEHAVIOR,1–3 credits,Standard,Lisa Barrett,1/28
+IUBLA,Animal Behavior,ABEH-A 401,TOPICAL ISSUES IN ANIMAL BEHAVIOR,1–3 credits,Standard,Megan Murphy,1/25
+IUBLA,Anatomy,ANAT-A 530,SPECIAL TOPICS,1–5 credits,Standard,"Valerie O'Loughlin, Stacey Dunham",25/30
+IUBLA,Anthropology,ANTH-A 208,DECOMPOSE IN PEACE: ANTHROPOLOGY OF DEATH (TOPICS IN THE ANTHROPOLOGY OF THE ARTS AND EXPRESSIVE BEHAVIOR),3 credits,Standard,Eliza Frenkel,1/27
+IUBLA,Animal Behavior,ABEH-A 401,SENSORY ECOLOGY (TOPICAL ISSUES IN ANIMAL BEHAVIOR),1–3 credits,Standard,Megan Murphy,1/25
+IUBLA,Anatomy,ANAT-A 540,MORE THAN SEX ED: A SCIENTIFIC LOOK AT REPRODUCTIVE ANATOMY & PHYSIOLOGY,3 credits,Standard,Stacey Dunham,0/1
+IUBLA,Anthropology,ANTH-A 211,ANTHROPOLOGY TOPICS IN THE NATURAL AND MATHEMTICAL SCIENCES,3 credits,Standard,Frederika Kaestle,0/38
+IUBLA,Animal Behavior,ABEH-A 401,HUMAN-ANIMAL INTERACTION (TOPICAL ISSUES IN ANIMAL BEHAVIOR),1–3 credits,Standard,Lisa Barrett,1/28
+IUBLA,Anatomy,ANAT-A 561,HISTORY OF ANATOMY,2 credits,Standard,"James Brokaw, Valerie O'Loughlin",6/12
+IUBLA,Animal Behavior,ABEH-A 501,SEMINAR IN THE INTEGRATIVE STUDY OF ANIMAL BEHAVIOR,1–3 credits,Standard,Megan Murphy,7/10
+IUBLA,Anthropology,ANTH-A 211,FORENSIC GENETICS (ANTHROPOLOGY TOPICS IN THE NATURAL AND MATHEMTICAL SCIENCES),3 credits,Standard,Frederika Kaestle,0/38
+IUBLA,Anatomy,ANAT-A 580,HUMAN ANATOMY FOR MEDICAL IMAGING EVALUATION,4 credits,Standard,Valerie O'Loughlin,7/7
+IUBLA,Animal Behavior,ABEH-A 501,SENSORY ECOLOGY (SEMINAR IN THE INTEGRATIVE STUDY OF ANIMAL BEHAVIOR),1–3 credits,Standard,Megan Murphy,7/10
+IUBLA,Anthropology,ANTH-A 306,ANTHROPOLOGICAL STATISTICS,3 credits,Standard,James Gibb,2/23
+IUBLA,Anatomy,ANAT-A 800,RESEARCH IN ANATOMY,1–12 credits,Standard,"Valerie O'Loughlin, Stacey Dunham",3/10
+IUBLA,Animal Behavior,ABEH-X 473,ANIMAL BEHAVIOR INTERNSHIP,1–6 credits,Standard,Adam Fudickar,4/15
+IUBLA,Anthropology,ANTH-A 372,"FOOD, CULTURE AND HERITAGE IN ITALY",3 credits,Standard,Brian Gilley,1/15
+IUBLA,Anatomy,ANAT-A 850,TOPICAL SEMINAR IN ANATOMY,1 credit,Standard,"Valerie O'Loughlin, Stacey Dunham",7/15
+IUBLA,Animal Behavior,ABEH-X 491,INDEPENDENT STUDY IN ANIMAL BEHAVIOR,1–3 credits,Standard,Adam Fudickar,4/5
+IUBLA,Animal Behavior,ABEH-X 491,INDEPENDENT STUDY IN ANIMAL BEHAVIOR,1–3 credits,Standard,Erica Cartmill,10/10
+IUBLA,Anthropology,ANTH-A 399,HONORS TUTORIAL,3 credits,Standard,Jane Goodman,3/5
+IUBLA,Anatomy,ANAT-A 878,ANATOMY TEACHING PRACTICUM,2 credits,Standard,"Valerie O'Loughlin, Stacey Dunham",14/15
+IUBLA,Anthropology,ANTH-A 403,INTRODUCTION TO MUSEUM STUDIES,3 credits,Standard,Beth Buggenhagen,0/15
+IUBLA,Anthropology,ANTH-A 506,ANTHROPOLOGICAL STATISTICS,3 credits,Standard,James Gibb,1/5
+IUBLA,Anthropology,ANTH-A 576,GRADUATE MUSEUM PRACTICUM,1–6 credits,Standard,Fumi Arakawa,28/30
+IUBLA,Art History,ARTH-A 102,RENAISSANCE THROUGH MODERN ART,3 credits,Lecture,Giles Knox,4/150
+IUBLA,Art History,ARTH-A 102,RENAISSANCE THROUGH MODERN ART,3 credits,Discussion,Hilary Vergera,1/25
+IUBLA,Art History,ARTH-A 102,RENAISSANCE THROUGH MODERN ART,3 credits,Discussion,Sujin Jung,1/25
+IUBLA,Art History,ARTH-A 102,RENAISSANCE THROUGH MODERN ART,3 credits,Discussion,Sujin Jung,2/25
+IUBLA,Art History,ARTH-A 102,RENAISSANCE THROUGH MODERN ART,3 credits,Discussion,Hilary Vergera,0/25
+IUBLA,Art History,ARTH-A 102,RENAISSANCE THROUGH MODERN ART,3 credits,Discussion,Sujin Jung,0/25
+IUBLA,Art History,ARTH-A 102,RENAISSANCE THROUGH MODERN ART,3 credits,Discussion,Hilary Vergera,0/25
+IUBLA,Anthropology,ANTH-A 578,GRADUATE INTERNSHIP IN ANTHROPOLOGY,1–6 credits,Standard,Stacie King,10/10
+IUBLA,Art History,ARTH-A 156,INTRODUCTION TO ART OF THE AFRICAN DIASPORA,3 credits,Standard,Barbaro Martinez-Ruiz,52/90
+IUBLA,Anthropology,ANTH-A 595,GRADUATE READINGS IN ANTHROPOLOGY,1–4 credits,Standard,Stacie King,21/30
+IUBLA,Anthropology,ANTH-A 595,GRADUATE READINGS IN ANTHROPOLOGY,1–4 credits,Standard,Stacie King,27/30
+IUBLA,Anthropology,ANTH-A 595,GRADUATE READINGS IN ANTHROPOLOGY,1–4 credits,Standard,Stacie King,29/30
+IUBLA,Art History,ARTH-A 160,INTRODUCTION TO EAST ASIAN ART,3 credits,Standard,Weitian Yan,0/140
+IUBLA,Anthropology,ANTH-A 800,RESEARCH,1–18 credits,Standard,Stacie King,36/60
+IUBLA,Anthropology,ANTH-A 800,RESEARCH,1–18 credits,Standard,Stacie King,60/60
+IUBLA,Art History,ARTH-A 202,FROM CONCEPT TO EXHIBITION,3 credits,Standard,Julie Van Voorhis,3/15
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Lecture,Frederika Kaestle,0/225
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Discussion,Diganta Mandal,0/25
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Discussion,Diganta Mandal,0/25
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Discussion,Diganta Mandal,0/25
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Discussion,Kelsey Rose,0/25
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Discussion,Kelsey Rose,0/25
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Discussion,Kelsey Rose,0/25
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Discussion,Peyton Foti,0/25
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Discussion,Peyton Foti,0/25
+IUBLA,Anthropology,ANTH-B 200,BIOANTHROPOLOGY,4 credits,Discussion,Peyton Foti,0/25
+IUBLA,Art History,ARTH-A 202,THE ART OF THE PARTY IN ANCIENT GREECE AND ROME (FROM CONCEPT TO EXHIBITION),3 credits,Standard,Julie Van Voorhis,3/15
+IUBLA,Anthropology,ANTH-B 260,BIOCULTURAL MEDICAL ANTHROPOLOGY,3 credits,Standard,Jennifer Cullin,0/27
+IUBLA,Art History,ARTH-A 203,"MACHINE AGE MODERN: EUROPEAN ART, 1848-1939",3 credits,Standard,Jeffrey Saletnik,35/60
+IUBLA,Art History,ARTH-A 203,"MACHINE AGE MODERN: EUROPEAN ART, 1848-1939",3 credits,Standard,Jeffrey Saletnik,0/0
+IUBLA,Anthropology,ANTH-B 333,"CHIMPANZEE BIOLOGY: ANATOMY, EVOLUTION, ECOLOGY AND PHYSIOLOGY",3 credits,Standard,Kevin Hunt,31/60
+IUBLA,Art History,ARTH-A 206,CLASSICAL ART AND ARCHAEOLOGY,3 credits,Standard,"Nicholas Blackwell, Kristof Szabo",0/75
+IUBLA,Anthropology,ANTH-B 343,EVOLUTION OF HUMAN ECOLOGICAL FOOTPRINT,3 credits,Standard,Michael Wasserman,0/27
+IUBLA,Art History,ARTH-A 207,"INTRODUCTION TO CONTEMPORARY ART AND ITS DISCONTENTS, 1960 TO THE PRESENT",3 credits,Standard,Maria Domene-Danes,14/150
+IUBLA,Anthropology,ANTH-B 368,THE EVOLUTION OF PRIMATE SOCIAL BEHAVIOR,3 credits,Standard,Kevin Hunt,1/60
+IUBLA,Art History,ARTH-A 220,AMERICAN ARTS/AMERICAN IDENTITIES,3 credits,Standard,Melody Deusner,6/80
+IUBLA,Anthropology,ANTH-B 543,EVOLUTION OF HUMAN ECOLOGICAL FOOTPRINT,3 credits,Standard,Michael Wasserman,0/27
+IUBLA,Art History,ARTH-A 300,TOPICS IN ART HISTORY,3 credits,Standard,Phoebe Wolfskill,0/5
+IUBLA,Anthropology,ANTH-B 568,THE EVOLUTION OF PRIMATE SOCIAL BEHAVIOR,3 credits,Standard,Kevin Hunt,8/10
+IUBLA,Art History,ARTH-A 300,AMERICAN DOCUMENTARY PHOTOGRAPHY (TOPICS IN ART HISTORY),3 credits,Standard,Phoebe Wolfskill,0/5
+IUBLA,Anthropology,ANTH-E 101,SUSTAINABILITY AND SOCIETY,3 credits,Standard,Eduardo Brondizio,0/80
+IUBLA,Art History,ARTH-A 327,MODERN AND CONTEMPORARY ART OF THE MIDDLE EAST AND NORTH AFRICA,3 credits,Standard,Maria Domene-Danes,0/40
+IUBLA,Anthropology,ANTH-E 200,SOCIAL AND CULTURAL ANTHROPOLOGY,3 credits,Standard,Christina Collins,0/90
+IUBLA,Art History,ARTH-A 336,THE GRAPHIC NOVEL,3 credits,Standard,Andrei Molotiu,0/40
+IUBLA,Anthropology,ANTH-E 212,THE ANTHROPOLOGY OF YOUTH AND ADOLESCENCE,3 credits,Standard,Daniel Suslak,3/27
+IUBLA,Art History,ARTH-A 337,AGE OF RUBENS AND REMBRANDT,3 credits,Standard,Bret Rothstein,11/40
+IUBLA,Anthropology,ANTH-E 300,CULTURE AREAS AND ETHNIC GROUPS,1–3 credits,Standard,Eveline Washul,0/8
+IUBLA,Art History,ARTH-A 344,"CURATING THE CONTEMPORARY: CURATORIAL ETHICS, ACTIVISM, AND CONTEMPORARY ART",3 credits,Standard,Faye Gleisser,2/40
+IUBLA,Anthropology,ANTH-E 300,CONTEMPORARY TIBET (CULTURE AREAS AND ETHNIC GROUPS),1–3 credits,Standard,Eveline Washul,0/8
+IUBLA,Art History,ARTH-A 448,PICASSO IN CONTEXT,3 credits,Standard,Maria Domene-Danes,1/25
+IUBLA,Anthropology,ANTH-E 318,NATURE / CULTURE: GLOBAL PERSPECTIVES IN ENVIRONMENTAL ANTHROPOLOGY,3 credits,Standard,Sarah Osterhoudt,0/24
+IUBLA,Art History,ARTH-A 475,"THE VIEWER IN THE PAINTING: FICTION, FANTASY, AND HOW WE RESPOND TO AND WRITE ABOUT ART",3 credits,Standard,Andrei Molotiu,2/25
+IUBLA,Anthropology,ANTH-E 347,THE ANTHROPOLOGY OF CONTEMPORARY JAPAN,3 credits,Standard,Marvin Sterling,11/27
+IUBLA,Art History,ARTH-A 483,VISUAL AND MATERIAL CULTURES OF PLAY,3 credits,Standard,Bret Rothstein,2/25
+IUBLA,Anthropology,ANTH-E 358,PHOTOGRAPHY AND ETHNOGRAPHY,3 credits,Standard,Beth Buggenhagen,1/15
+IUBLA,Art History,ARTH-A 484,EXPERIENCE/EXPERIMENT: MODERN AND CONTEMPORARY INTERSECTIONS OF ART AND SCIENCE,3 credits,Standard,Faye Gleisser,3/20
+IUBLA,Anthropology,ANTH-E 400,UNDERGRADUATE SEMINAR,3 credits,Standard,Shane Greene,4/21
+IUBLA,Art History,ARTH-A 484,HORMONES AND PERCEPTION (EXPERIENCE/EXPERIMENT: MODERN AND CONTEMPORARY INTERSECTIONS OF ART AND SCIENCE),3 credits,Standard,Faye Gleisser,3/20
+IUBLA,Anthropology,ANTH-E 400,HUMAN EXTINCTION (UNDERGRADUATE SEMINAR),3 credits,Standard,Shane Greene,4/21
+IUBLA,Art History,ARTH-A 499,SENIOR HONORS THESIS,3 credits,Standard,Giles Knox,1/8
+IUBLA,Anthropology,ANTH-E 441,CRAFT STUDIES,3 credits,Standard,Jason Jackson,0/8
+IUBLA,Art History,ARTH-A 501,TOPICS IN ANCIENT ART,3 credits,Standard,Elise Poppen,2/5
+IUBLA,Anthropology,ANTH-E 500,PROSEMINAR IN CULTURAL AND SOCIAL ANTHROPOLOGY,3 credits,Standard,Jane Goodman,9/15
+IUBLA,Art History,ARTH-A 501,ROMAN BORDERLANDS (TOPICS IN ANCIENT ART),3 credits,Standard,Elise Poppen,2/5
+IUBLA,Anthropology,ANTH-E 527,ENVIRONMENTAL ANTHROPOLOGY,3 credits,Standard,Eduardo Brondizio,0/14
+IUBLA,Art History,ARTH-A 520,TOPICS IN MEDIEVAL ART,3 credits,Standard,Diane Reilly,0/15
+IUBLA,Anthropology,ANTH-E 600,SEMINAR IN CULTURAL AND SOCIAL ANTHROPOLOGY,3 credits,Standard,Jason Jackson,1/4
+IUBLA,Anthropology,ANTH-E 600,SEMINAR IN CULTURAL AND SOCIAL ANTHROPOLOGY,3 credits,Standard,Shane Greene,1/4
+IUBLA,Anthropology,ANTH-E 600,SEMINAR IN CULTURAL AND SOCIAL ANTHROPOLOGY,3 credits,Standard,Eveline Washul,2/2
+IUBLA,Art History,ARTH-A 520,ILLUMINATED MANUSCRPT MID AGES (TOPICS IN MEDIEVAL ART),3 credits,Standard,Diane Reilly,0/15
+IUBLA,Anthropology,ANTH-E 600,CONTEMPORARY TIBET (SEMINAR IN CULTURAL AND SOCIAL ANTHROPOLOGY),3 credits,Standard,Eveline Washul,2/2
+IUBLA,Art History,ARTH-A 584,EXPERIENCE/EXPERIMENT: MODERN AND CONTEMPORARY INTERSECTIONS OF ART AND SCIENCE,3 credits,Standard,Faye Gleisser,0/4
+IUBLA,Anthropology,ANTH-E 600,PEOPLES OF THE SOUTHEAST ASIAN MASSIF (SEMINAR IN CULTURAL AND SOCIAL ANTHROPOLOGY),3 credits,Standard,Jason Jackson,1/4
+IUBLA,Art History,ARTH-A 595,MASTERS ESSAY RESEARCH,1–4 credits,Standard,Jeffrey Saletnik,2/8
+IUBLA,Anthropology,ANTH-E 600,HUMAN EXTINCTION (SEMINAR IN CULTURAL AND SOCIAL ANTHROPOLOGY),3 credits,Standard,Shane Greene,1/4
+IUBLA,Art History,ARTH-A 643,PROBLEMS IN AMERICAN ART,3 credits,Standard,Melody Deusner,6/10
+IUBLA,Anthropology,ANTH-E 606,ETHNOGRAPHIC METHODS,3 credits,Standard,Christina Collins,9/20
+IUBLA,Art History,ARTH-A 664,PROBLEMS IN EAST ASIAN ART,3 credits,Standard,Weitian Yan,6/10
+IUBLA,Anthropology,ANTH-G 599,THESIS RESEARCH,0 credits,Standard,Stacie King,1/1
+IUBLA,Art History,ARTH-A 775,ADVANCED READINGS AND RESEARCH,1–8 credits,Standard,Jeffrey Saletnik,2/10
+IUBLA,Art History,ARTH-A 775,ADVANCED READINGS AND RESEARCH,1–8 credits,Standard,Bret Rothstein,0/2
+IUBLA,Art History,ARTH-A 775,ADVANCED READINGS AND RESEARCH,1–8 credits,Standard,Giles Knox,0/2
+IUBLA,Art History,ARTH-A 775,ADVANCED READINGS AND RESEARCH,1–8 credits,Standard,Barbaro Martinez-Ruiz,0/1
+IUBLA,Art History,ARTH-A 775,ADVANCED READINGS AND RESEARCH,1–8 credits,Standard,Julie Van Voorhis,0/1
+IUBLA,Anthropology,ANTH-G 901,ADVANCED RESEARCH,6 credits,Standard,Stacie King,44/60
+IUBLA,Art History,ARTH-A 779,DIRECTED FIELD WORK,1–12 credits,Standard,Jeffrey Saletnik,5/5
+IUBLA,Art History,ARTH-A 779,DIRECTED FIELD WORK,1–12 credits,Standard,Jeffrey Saletnik,5/5
+IUBLA,Anthropology,ANTH-L 200,LANGUAGE AND CULTURE,3 credits,Standard,Erica Cartmill,32/90
+IUBLA,Art History,ARTH-A 879,DOCTORAL DISSERTATION,1–12 credits,Standard,Jeffrey Saletnik,5/5
+IUBLA,Art History,ARTH-A 879,DOCTORAL DISSERTATION,1–12 credits,Standard,Jeffrey Saletnik,5/5
+IUBLA,Anthropology,ANTH-L 340,LANGUAGE AND GLOBALIZATION,3 credits,Standard,Kathryn Graber,0/25
+IUBLA,Art History,ARTH-G 901,ADVANCED RESEARCH,6 credits,Standard,Jeffrey Saletnik,5/10
+IUBLA,Anthropology,ANTH-L 400,TOPICAL SEMINAR IN THE ETHNOGRAPHY OF COMMUNICATION,3 credits,Standard,Reka Benczes,19/24
+IUBLA,Anthropology,ANTH-L 400,TOPICAL SEMINAR IN THE ETHNOGRAPHY OF COMMUNICATION,3 credits,Standard,Reka Benczes,21/24
+IUBLA,Art History,ARTH-H 100,INTRODUCTION TO ART HISTORY AND VISUAL CULTURE,3 credits,Standard,Diane Reilly,1/90
+IUBLA,Anthropology,ANTH-L 400,LANGUAGE AND POLITICS IN CENTRAL EUROPE (TOPICAL SEMINAR IN THE ETHNOGRAPHY OF COMMUNICATION),3 credits,Standard,Reka Benczes,21/24
+IUBLA,Art History,ARTH-X 376,PROFESSIONAL PRACTICE IN THE HISTORY OF ART,1–6 credits,Standard,Giles Knox,3/5
+IUBLA,Anthropology,ANTH-L 400,"THE LANGUAGE OF LIFE, AGEING AND DEATH (TOPICAL SEMINAR IN THE ETHNOGRAPHY OF COMMUNICATION)",3 credits,Standard,Reka Benczes,19/24
+IUBLA,Art History,ARTH-X 491,READINGS AND RESEARCH IN ART HISTORY,1–3 credits,Standard,Giles Knox,4/5
