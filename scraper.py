@@ -3,6 +3,8 @@ from playwright.async_api import async_playwright
 import time
 import csv
 import asyncio
+import aiofiles
+import aiocsv  #
 
 campuses_codes = [
     "IUBLA",
@@ -98,8 +100,12 @@ async def scrape_dept(browser, campus_code, dept, semaphore):
             ).all()
 
             sections = []
-            with open(output_file, mode="a", newline="", encoding="utf-8") as f:
-                writer = csv.writer(f)
+            # with open(output_file, mode="a", newline="", encoding="utf-8") as f:
+            #     writer = csv.writer(f)
+            async with aiofiles.open(
+                output_file, mode="a", encoding="utf-8", newline=""
+            ) as f:
+                writer = aiocsv.AsyncWriter(f)
                 for row in class_rows:
                     print(f"Processing section row... {dept}")
                     cells = row.locator("td.cs-class-data-container")
@@ -123,7 +129,7 @@ async def scrape_dept(browser, campus_code, dept, semaphore):
                             "open_seats": open_seats,
                         }
                     )
-                    writer.writerow(
+                    await writer.writerow(
                         [
                             campus_code,
                             dept,
@@ -135,6 +141,18 @@ async def scrape_dept(browser, campus_code, dept, semaphore):
                             open_seats,
                         ]
                     )
+                    # writer.writerow(
+                    #     [
+                    #         campus_code,
+                    #         dept,
+                    #         course_id,
+                    #         title,
+                    #         credits,
+                    #         component_type,
+                    #         instructor,
+                    #         open_seats,
+                    #     ]
+                    # )
                 courses_data["sections"] = sections
 
             await page.keyboard.press("Escape")
@@ -162,6 +180,11 @@ async def run_scraper():
             ).all_text_contents()
 
             time.sleep(1)
+            await page.wait_for_selector(
+                "#cs-subject-search__select option:not([value=''])",
+                state="attached",
+                timeout=10000,
+            )
             subject_values = await page.locator(
                 "#cs-subject-search__select option"
             ).evaluate_all(
